@@ -1154,3 +1154,8 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2026.02.21-02.36.21:544][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -287380011
 [2026.02.21-02.36.21:544][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7.834264, Update Interval: 356.090576
 [2026.02.21-02.37.55:980][363]LogDerivedDataCache: C:/Users/trist/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.011 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.21-02.42.17:326][441]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 363.952423
+[2026.02.21-02.42.17:460][449]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-02.42.17:461][450]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 364.071167, Update Interval: 320.330811
+[2026.02.21-02.42.38:350][582]LogSlate: External Image Picker: DecompressImage failed
+[2026.02.21-02.42.38:657][583]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
