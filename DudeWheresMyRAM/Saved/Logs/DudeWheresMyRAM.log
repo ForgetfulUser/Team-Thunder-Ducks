@@ -1153,3 +1153,4 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2026.02.21-02.36.21:539][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 7.834264
 [2026.02.21-02.36.21:544][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -287380011
 [2026.02.21-02.36.21:544][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7.834264, Update Interval: 356.090576
+[2026.02.21-02.37.55:980][363]LogDerivedDataCache: C:/Users/trist/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.011 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
